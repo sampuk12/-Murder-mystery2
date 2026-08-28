@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://github.com/sampuk12/-Murder-mystery2/blob/main/Pushero"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sampuk12/-Murder-mystery2/main/Pushero"))()
